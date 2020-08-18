@@ -1,6 +1,6 @@
 # Creating a Web API with Python and Flask 
 
-In this project I build a prototype API using Python and the Flask web framework. 
+In this project I built a prototype API using Python and the Flask web framework. 
 This API acts as a distant reading archive - a book catalog that includeds data
 of interest to those working on digital projects. Flask was ideal for this project
 as their applications are able to be used in a variety of ways and are
